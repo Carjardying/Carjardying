@@ -9,7 +9,7 @@
 - I hate coffee taste, but i can't go on a full day without drinking at least two cups with 2 sugar in it.
 - I'm angry when hungry.
 - I discovered code and programming by watching my big sis mod Morrowind instead of sleeping at night. 
-- 
+- I listen to naruto'ost on a daily basis
 
 <!---
 Carjardying/Carjardying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
