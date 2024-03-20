@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caroline
-- 👀 I’m interested in learning dev, particularly for mobile devices...
-- 🌱 I’m currently learning swift ...
-- 💞️ I’m looking to collaborate on projects that help other...
+- 👀 I’m interested in learning dev, particularly for mobile devices. I am more interested in back than front
+- 🌱 I’m currently learning swift
+- 💞️ I’m looking to collaborate on projects that help others
 - 📫 How to reach me ? Message me on linkedin https://www.linkedin.com/in/caroline-jardy-455244269/
 - ⚡ Some facts :
 - I love food. Mostly sugary meals, but i do love some salty food.
