@@ -13,7 +13,7 @@
 - I discovered code and programming by watching my big sis mod Morrowind instead of sleeping at night.
 - I listen to naruto'ost on a daily basis
 
-- 
+ 
 
 <!---
 Carjardying/Carjardying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
