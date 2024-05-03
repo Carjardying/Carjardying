@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on projects that help others
 - 📫 How to reach me ? Message me on linkedin https://www.linkedin.com/in/caroline-jardy-455244269/
 - ⚡ Some facts :
-- I love food. Mostly sugary meals, but i do love some salty food.
-- I am a creative person, as in "I sew, draw, make my own furnitures, i paint sometimes. I can't live a day without drawing.
-- I hate coffee taste, but i can't go on a full day without drinking at least two cups with 2 sugar in it.
+- I love food. I mostly have sugary meals, but I do love salty food.
+- I am a creative person, as in "I sew, draw, make my own furniture, I paint sometimes. I can't live a day without drawing.".
+- I hate coffee's taste, but I can't go on a full working day without drinking at least two cups with 2 sugar in it.
 - I'm angry when hungry.
-- I discovered code and programming by watching my big sis mod Morrowind instead of sleeping at night. 
+- I discovered code and programming by watching my big sis mod Morrowind instead of sleeping at night.
 - I listen to naruto'ost on a daily basis
 
 <!---
